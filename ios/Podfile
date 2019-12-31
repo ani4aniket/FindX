@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'Sell_It' do
-  # Pods for Sell_It
+target 'FindMyScreenshot' do
+  # Pods for FindMyScreenshot
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -34,7 +34,7 @@ target 'Sell_It' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'Sell_ItTests' do
+  target 'FindMyScreenshotTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -42,10 +42,10 @@ target 'Sell_It' do
   use_native_modules!
 end
 
-target 'Sell_It-tvOS' do
-  # Pods for Sell_It-tvOS
+target 'FindMyScreenshot-tvOS' do
+  # Pods for FindMyScreenshot-tvOS
 
-  target 'Sell_It-tvOSTests' do
+  target 'FindMyScreenshot-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

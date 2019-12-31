@@ -1,4 +1,4 @@
-package com.sell_it;
+package com.findx.findmyscreenshot;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "Sell_It";
+    return "FindMyScreenshot";
   }
 }

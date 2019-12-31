@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* Sell_ItTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* Sell_ItTests.m */; };
+		00E356F31AD99517003FC87E /* FindMyScreenshotTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* FindMyScreenshotTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -15,11 +15,11 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* Sell_ItTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* Sell_ItTests.m */; };
-		5100ACCE29618BCB80439D7E /* libPods-Sell_ItTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C83747271A24345CED48CE2 /* libPods-Sell_ItTests.a */; };
-		744201634D3BEC9988AB7E6C /* libPods-Sell_It-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E0160623DE9AA3A824F3A1B9 /* libPods-Sell_It-tvOS.a */; };
-		7F7E15B71642EDC5A1D43DBE /* libPods-Sell_It.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A678ABE4B16CED1F214BCEB /* libPods-Sell_It.a */; };
-		CD3049FF5398F73BAE17AEB1 /* libPods-Sell_It-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C38A2D80C1561D695D96E54F /* libPods-Sell_It-tvOSTests.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* FindMyScreenshotTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* FindMyScreenshotTests.m */; };
+		5100ACCE29618BCB80439D7E /* libPods-FindMyScreenshotTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C83747271A24345CED48CE2 /* libPods-FindMyScreenshotTests.a */; };
+		744201634D3BEC9988AB7E6C /* libPods-FindMyScreenshot-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E0160623DE9AA3A824F3A1B9 /* libPods-FindMyScreenshot-tvOS.a */; };
+		7F7E15B71642EDC5A1D43DBE /* libPods-FindMyScreenshot.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3A678ABE4B16CED1F214BCEB /* libPods-FindMyScreenshot.a */; };
+		CD3049FF5398F73BAE17AEB1 /* libPods-FindMyScreenshot-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C38A2D80C1561D695D96E54F /* libPods-FindMyScreenshot-tvOSTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,45 +28,45 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = Sell_It;
+			remoteInfo = FindMyScreenshot;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "Sell_It-tvOS";
+			remoteInfo = "FindMyScreenshot-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* Sell_ItTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Sell_ItTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* FindMyScreenshotTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FindMyScreenshotTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* Sell_ItTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sell_ItTests.m; sourceTree = "<group>"; };
-		10AC248523098248203AD84B /* Pods-Sell_It-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sell_It-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-Sell_It-tvOSTests/Pods-Sell_It-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* Sell_It.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sell_It.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Sell_It/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Sell_It/AppDelegate.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* FindMyScreenshotTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FindMyScreenshotTests.m; sourceTree = "<group>"; };
+		10AC248523098248203AD84B /* Pods-FindMyScreenshot-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FindMyScreenshot-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-FindMyScreenshot-tvOSTests/Pods-FindMyScreenshot-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* FindMyScreenshot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FindMyScreenshot.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = FindMyScreenshot/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = FindMyScreenshot/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Sell_It/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Sell_It/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Sell_It/main.m; sourceTree = "<group>"; };
-		1CA7F1985FB114A6F0309FBE /* Pods-Sell_ItTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sell_ItTests.debug.xcconfig"; path = "Target Support Files/Pods-Sell_ItTests/Pods-Sell_ItTests.debug.xcconfig"; sourceTree = "<group>"; };
-		2A3543D88841341F942D9A5C /* Pods-Sell_It-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sell_It-tvOS.release.xcconfig"; path = "Target Support Files/Pods-Sell_It-tvOS/Pods-Sell_It-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* Sell_It-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sell_It-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* Sell_It-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sell_It-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3A678ABE4B16CED1F214BCEB /* libPods-Sell_It.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Sell_It.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		56B5584055C81AE07563B816 /* Pods-Sell_It-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sell_It-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-Sell_It-tvOSTests/Pods-Sell_It-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		78099FDFAAC5920B1556A71F /* Pods-Sell_It.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sell_It.release.xcconfig"; path = "Target Support Files/Pods-Sell_It/Pods-Sell_It.release.xcconfig"; sourceTree = "<group>"; };
-		7C83747271A24345CED48CE2 /* libPods-Sell_ItTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Sell_ItTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A4E26479D30048AA26861936 /* Pods-Sell_It.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sell_It.debug.xcconfig"; path = "Target Support Files/Pods-Sell_It/Pods-Sell_It.debug.xcconfig"; sourceTree = "<group>"; };
-		C38A2D80C1561D695D96E54F /* libPods-Sell_It-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Sell_It-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CD0050E7D8D3B7AEBF74DFE7 /* Pods-Sell_It-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sell_It-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-Sell_It-tvOS/Pods-Sell_It-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		E0160623DE9AA3A824F3A1B9 /* libPods-Sell_It-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Sell_It-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = FindMyScreenshot/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = FindMyScreenshot/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = FindMyScreenshot/main.m; sourceTree = "<group>"; };
+		1CA7F1985FB114A6F0309FBE /* Pods-FindMyScreenshotTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FindMyScreenshotTests.debug.xcconfig"; path = "Target Support Files/Pods-FindMyScreenshotTests/Pods-FindMyScreenshotTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2A3543D88841341F942D9A5C /* Pods-FindMyScreenshot-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FindMyScreenshot-tvOS.release.xcconfig"; path = "Target Support Files/Pods-FindMyScreenshot-tvOS/Pods-FindMyScreenshot-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* FindMyScreenshot-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FindMyScreenshot-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* FindMyScreenshot-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FindMyScreenshot-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A678ABE4B16CED1F214BCEB /* libPods-FindMyScreenshot.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FindMyScreenshot.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		56B5584055C81AE07563B816 /* Pods-FindMyScreenshot-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FindMyScreenshot-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-FindMyScreenshot-tvOSTests/Pods-FindMyScreenshot-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		78099FDFAAC5920B1556A71F /* Pods-FindMyScreenshot.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FindMyScreenshot.release.xcconfig"; path = "Target Support Files/Pods-FindMyScreenshot/Pods-FindMyScreenshot.release.xcconfig"; sourceTree = "<group>"; };
+		7C83747271A24345CED48CE2 /* libPods-FindMyScreenshotTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FindMyScreenshotTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4E26479D30048AA26861936 /* Pods-FindMyScreenshot.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FindMyScreenshot.debug.xcconfig"; path = "Target Support Files/Pods-FindMyScreenshot/Pods-FindMyScreenshot.debug.xcconfig"; sourceTree = "<group>"; };
+		C38A2D80C1561D695D96E54F /* libPods-FindMyScreenshot-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FindMyScreenshot-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD0050E7D8D3B7AEBF74DFE7 /* Pods-FindMyScreenshot-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FindMyScreenshot-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-FindMyScreenshot-tvOS/Pods-FindMyScreenshot-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		E0160623DE9AA3A824F3A1B9 /* libPods-FindMyScreenshot-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-FindMyScreenshot-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		F80EEB3E6FD0C9460133F30B /* Pods-Sell_ItTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Sell_ItTests.release.xcconfig"; path = "Target Support Files/Pods-Sell_ItTests/Pods-Sell_ItTests.release.xcconfig"; sourceTree = "<group>"; };
+		F80EEB3E6FD0C9460133F30B /* Pods-FindMyScreenshotTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FindMyScreenshotTests.release.xcconfig"; path = "Target Support Files/Pods-FindMyScreenshotTests/Pods-FindMyScreenshotTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5100ACCE29618BCB80439D7E /* libPods-Sell_ItTests.a in Frameworks */,
+				5100ACCE29618BCB80439D7E /* libPods-FindMyScreenshotTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F7E15B71642EDC5A1D43DBE /* libPods-Sell_It.a in Frameworks */,
+				7F7E15B71642EDC5A1D43DBE /* libPods-FindMyScreenshot.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				744201634D3BEC9988AB7E6C /* libPods-Sell_It-tvOS.a in Frameworks */,
+				744201634D3BEC9988AB7E6C /* libPods-FindMyScreenshot-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD3049FF5398F73BAE17AEB1 /* libPods-Sell_It-tvOSTests.a in Frameworks */,
+				CD3049FF5398F73BAE17AEB1 /* libPods-FindMyScreenshot-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* Sell_ItTests */ = {
+		00E356EF1AD99517003FC87E /* FindMyScreenshotTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* Sell_ItTests.m */,
+				00E356F21AD99517003FC87E /* FindMyScreenshotTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = Sell_ItTests;
+			path = FindMyScreenshotTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* Sell_It */ = {
+		13B07FAE1A68108700A75B9A /* FindMyScreenshot */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = Sell_It;
+			name = FindMyScreenshot;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,10 +141,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				3A678ABE4B16CED1F214BCEB /* libPods-Sell_It.a */,
-				E0160623DE9AA3A824F3A1B9 /* libPods-Sell_It-tvOS.a */,
-				C38A2D80C1561D695D96E54F /* libPods-Sell_It-tvOSTests.a */,
-				7C83747271A24345CED48CE2 /* libPods-Sell_ItTests.a */,
+				3A678ABE4B16CED1F214BCEB /* libPods-FindMyScreenshot.a */,
+				E0160623DE9AA3A824F3A1B9 /* libPods-FindMyScreenshot-tvOS.a */,
+				C38A2D80C1561D695D96E54F /* libPods-FindMyScreenshot-tvOSTests.a */,
+				7C83747271A24345CED48CE2 /* libPods-FindMyScreenshotTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -152,14 +152,14 @@
 		64F90BFBE9A5684AD88B3032 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				A4E26479D30048AA26861936 /* Pods-Sell_It.debug.xcconfig */,
-				78099FDFAAC5920B1556A71F /* Pods-Sell_It.release.xcconfig */,
-				CD0050E7D8D3B7AEBF74DFE7 /* Pods-Sell_It-tvOS.debug.xcconfig */,
-				2A3543D88841341F942D9A5C /* Pods-Sell_It-tvOS.release.xcconfig */,
-				56B5584055C81AE07563B816 /* Pods-Sell_It-tvOSTests.debug.xcconfig */,
-				10AC248523098248203AD84B /* Pods-Sell_It-tvOSTests.release.xcconfig */,
-				1CA7F1985FB114A6F0309FBE /* Pods-Sell_ItTests.debug.xcconfig */,
-				F80EEB3E6FD0C9460133F30B /* Pods-Sell_ItTests.release.xcconfig */,
+				A4E26479D30048AA26861936 /* Pods-FindMyScreenshot.debug.xcconfig */,
+				78099FDFAAC5920B1556A71F /* Pods-FindMyScreenshot.release.xcconfig */,
+				CD0050E7D8D3B7AEBF74DFE7 /* Pods-FindMyScreenshot-tvOS.debug.xcconfig */,
+				2A3543D88841341F942D9A5C /* Pods-FindMyScreenshot-tvOS.release.xcconfig */,
+				56B5584055C81AE07563B816 /* Pods-FindMyScreenshot-tvOSTests.debug.xcconfig */,
+				10AC248523098248203AD84B /* Pods-FindMyScreenshot-tvOSTests.release.xcconfig */,
+				1CA7F1985FB114A6F0309FBE /* Pods-FindMyScreenshotTests.debug.xcconfig */,
+				F80EEB3E6FD0C9460133F30B /* Pods-FindMyScreenshotTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -175,9 +175,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* Sell_It */,
+				13B07FAE1A68108700A75B9A /* FindMyScreenshot */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* Sell_ItTests */,
+				00E356EF1AD99517003FC87E /* FindMyScreenshotTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				64F90BFBE9A5684AD88B3032 /* Pods */,
@@ -190,10 +190,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* Sell_It.app */,
-				00E356EE1AD99517003FC87E /* Sell_ItTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* Sell_It-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* Sell_It-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* FindMyScreenshot.app */,
+				00E356EE1AD99517003FC87E /* FindMyScreenshotTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* FindMyScreenshot-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* FindMyScreenshot-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -201,9 +201,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* Sell_ItTests */ = {
+		00E356ED1AD99517003FC87E /* FindMyScreenshotTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "Sell_ItTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "FindMyScreenshotTests" */;
 			buildPhases = (
 				91D35AF30AD44BB4C33DDDB7 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -215,14 +215,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = Sell_ItTests;
-			productName = Sell_ItTests;
-			productReference = 00E356EE1AD99517003FC87E /* Sell_ItTests.xctest */;
+			name = FindMyScreenshotTests;
+			productName = FindMyScreenshotTests;
+			productReference = 00E356EE1AD99517003FC87E /* FindMyScreenshotTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* Sell_It */ = {
+		13B07F861A680F5B00A75B9A /* FindMyScreenshot */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Sell_It" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "FindMyScreenshot" */;
 			buildPhases = (
 				FAD66A0B086AA9C3966A2C7F /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -235,14 +235,14 @@
 			);
 			dependencies = (
 			);
-			name = Sell_It;
-			productName = Sell_It;
-			productReference = 13B07F961A680F5B00A75B9A /* Sell_It.app */;
+			name = FindMyScreenshot;
+			productName = FindMyScreenshot;
+			productReference = 13B07F961A680F5B00A75B9A /* FindMyScreenshot.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* Sell_It-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* FindMyScreenshot-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Sell_It-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "FindMyScreenshot-tvOS" */;
 			buildPhases = (
 				4BCA8E30B77060323530A3CD /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -255,14 +255,14 @@
 			);
 			dependencies = (
 			);
-			name = "Sell_It-tvOS";
-			productName = "Sell_It-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* Sell_It-tvOS.app */;
+			name = "FindMyScreenshot-tvOS";
+			productName = "FindMyScreenshot-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* FindMyScreenshot-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* Sell_It-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* FindMyScreenshot-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Sell_It-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "FindMyScreenshot-tvOSTests" */;
 			buildPhases = (
 				A54B0BF046D4E8EC76D186E3 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -274,9 +274,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "Sell_It-tvOSTests";
-			productName = "Sell_It-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* Sell_It-tvOSTests.xctest */;
+			name = "FindMyScreenshot-tvOSTests";
+			productName = "FindMyScreenshot-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* FindMyScreenshot-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -303,7 +303,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Sell_It" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "FindMyScreenshot" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -316,10 +316,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* Sell_It */,
-				00E356ED1AD99517003FC87E /* Sell_ItTests */,
-				2D02E47A1E0B4A5D006451C7 /* Sell_It-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* Sell_It-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* FindMyScreenshot */,
+				00E356ED1AD99517003FC87E /* FindMyScreenshotTests */,
+				2D02E47A1E0B4A5D006451C7 /* FindMyScreenshot-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* FindMyScreenshot-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -402,7 +402,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Sell_It-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-FindMyScreenshot-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -424,7 +424,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Sell_ItTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-FindMyScreenshotTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -446,7 +446,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Sell_It-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-FindMyScreenshot-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -468,7 +468,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-Sell_It-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-FindMyScreenshot-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -520,7 +520,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* Sell_ItTests.m in Sources */,
+				00E356F31AD99517003FC87E /* FindMyScreenshotTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -546,7 +546,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* Sell_ItTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* FindMyScreenshotTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -555,12 +555,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* Sell_It */;
+			target = 13B07F861A680F5B00A75B9A /* FindMyScreenshot */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* Sell_It-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* FindMyScreenshot-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -572,7 +572,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = Sell_It;
+			path = FindMyScreenshot;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -580,14 +580,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1CA7F1985FB114A6F0309FBE /* Pods-Sell_ItTests.debug.xcconfig */;
+			baseConfigurationReference = 1CA7F1985FB114A6F0309FBE /* Pods-FindMyScreenshotTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = Sell_ItTests/Info.plist;
+				INFOPLIST_FILE = FindMyScreenshotTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -597,17 +597,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sell_It.app/Sell_It";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FindMyScreenshot.app/FindMyScreenshot";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F80EEB3E6FD0C9460133F30B /* Pods-Sell_ItTests.release.xcconfig */;
+			baseConfigurationReference = F80EEB3E6FD0C9460133F30B /* Pods-FindMyScreenshotTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = Sell_ItTests/Info.plist;
+				INFOPLIST_FILE = FindMyScreenshotTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -617,18 +617,18 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sell_It.app/Sell_It";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FindMyScreenshot.app/FindMyScreenshot";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A4E26479D30048AA26861936 /* Pods-Sell_It.debug.xcconfig */;
+			baseConfigurationReference = A4E26479D30048AA26861936 /* Pods-FindMyScreenshot.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				INFOPLIST_FILE = Sell_It/Info.plist;
+				INFOPLIST_FILE = FindMyScreenshot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -636,18 +636,18 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = Sell_It;
+				PRODUCT_NAME = FindMyScreenshot;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 78099FDFAAC5920B1556A71F /* Pods-Sell_It.release.xcconfig */;
+			baseConfigurationReference = 78099FDFAAC5920B1556A71F /* Pods-FindMyScreenshot.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = Sell_It/Info.plist;
+				INFOPLIST_FILE = FindMyScreenshot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -655,14 +655,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = Sell_It;
+				PRODUCT_NAME = FindMyScreenshot;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CD0050E7D8D3B7AEBF74DFE7 /* Pods-Sell_It-tvOS.debug.xcconfig */;
+			baseConfigurationReference = CD0050E7D8D3B7AEBF74DFE7 /* Pods-FindMyScreenshot-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -673,14 +673,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Sell_It-tvOS/Info.plist";
+				INFOPLIST_FILE = "FindMyScreenshot-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.Sell_It-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.FindMyScreenshot-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -690,7 +690,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2A3543D88841341F942D9A5C /* Pods-Sell_It-tvOS.release.xcconfig */;
+			baseConfigurationReference = 2A3543D88841341F942D9A5C /* Pods-FindMyScreenshot-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -701,14 +701,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Sell_It-tvOS/Info.plist";
+				INFOPLIST_FILE = "FindMyScreenshot-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.Sell_It-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.FindMyScreenshot-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -718,7 +718,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 56B5584055C81AE07563B816 /* Pods-Sell_It-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 56B5584055C81AE07563B816 /* Pods-FindMyScreenshot-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -728,24 +728,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Sell_It-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "FindMyScreenshot-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.Sell_It-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.FindMyScreenshot-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sell_It-tvOS.app/Sell_It-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FindMyScreenshot-tvOS.app/FindMyScreenshot-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 10AC248523098248203AD84B /* Pods-Sell_It-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 10AC248523098248203AD84B /* Pods-FindMyScreenshot-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -755,17 +755,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Sell_It-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "FindMyScreenshot-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.Sell_It-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.FindMyScreenshot-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sell_It-tvOS.app/Sell_It-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FindMyScreenshot-tvOS.app/FindMyScreenshot-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -872,7 +872,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "Sell_ItTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "FindMyScreenshotTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -881,7 +881,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "Sell_It" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "FindMyScreenshot" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -890,7 +890,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Sell_It-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "FindMyScreenshot-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -899,7 +899,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "Sell_It-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "FindMyScreenshot-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -908,7 +908,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "Sell_It" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "FindMyScreenshot" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

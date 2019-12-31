@@ -1,4 +1,4 @@
-package com.sell_it;
+package com.findx.findmyscreenshot;
 
 import android.app.Application;
 import android.content.Context;

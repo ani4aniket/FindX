@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "Sell_It-tvOS.app"
-               BlueprintName = "Sell_It-tvOS"
-               ReferencedContainer = "container:Sell_It.xcodeproj">
+               BuildableName = "FindMyScreenshot-tvOS.app"
+               BlueprintName = "FindMyScreenshot-tvOS"
+               ReferencedContainer = "container:FindMyScreenshot.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Sell_It-tvOSTests.xctest"
-               BlueprintName = "Sell_It-tvOSTests"
-               ReferencedContainer = "container:Sell_It.xcodeproj">
+               BuildableName = "FindMyScreenshot-tvOSTests.xctest"
+               BlueprintName = "FindMyScreenshot-tvOSTests"
+               ReferencedContainer = "container:FindMyScreenshot.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "Sell_It-tvOSTests.xctest"
-               BlueprintName = "Sell_It-tvOSTests"
-               ReferencedContainer = "container:Sell_It.xcodeproj">
+               BuildableName = "FindMyScreenshot-tvOSTests.xctest"
+               BlueprintName = "FindMyScreenshot-tvOSTests"
+               ReferencedContainer = "container:FindMyScreenshot.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Sell_It-tvOS.app"
-            BlueprintName = "Sell_It-tvOS"
-            ReferencedContainer = "container:Sell_It.xcodeproj">
+            BuildableName = "FindMyScreenshot-tvOS.app"
+            BlueprintName = "FindMyScreenshot-tvOS"
+            ReferencedContainer = "container:FindMyScreenshot.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Sell_It-tvOS.app"
-            BlueprintName = "Sell_It-tvOS"
-            ReferencedContainer = "container:Sell_It.xcodeproj">
+            BuildableName = "FindMyScreenshot-tvOS.app"
+            BlueprintName = "FindMyScreenshot-tvOS"
+            ReferencedContainer = "container:FindMyScreenshot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "Sell_It-tvOS.app"
-            BlueprintName = "Sell_It-tvOS"
-            ReferencedContainer = "container:Sell_It.xcodeproj">
+            BuildableName = "FindMyScreenshot-tvOS.app"
+            BlueprintName = "FindMyScreenshot-tvOS"
+            ReferencedContainer = "container:FindMyScreenshot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
