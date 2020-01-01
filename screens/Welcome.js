@@ -17,15 +17,11 @@ class Welcome extends Component {
         const clutter = dirs.PictureDir.split("Containers/Data");
         const picDir = clutter[0]+'Media/DCIM/100APPLE/';
         console.log(picDir);
-        RNFetchBlob.fs.scanFile([ { path : picDir } ])
-        .then((res) => {
-            // scan file success
-            console.log("hey",res);
 
-        })
-        .catch((err) => {
-            // scan file error
-        })        
+        RNFetchBlob.fs.ls(picDir).then(files => {
+            console.log(files);
+          }).catch(error => console.log(error))
+
         }
     
 
