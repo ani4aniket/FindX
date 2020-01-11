@@ -57,7 +57,7 @@ class Welcome extends Component {
                 // })
 
             })
-            console.log("files",imageDataBase );
+            // console.log("files",imageDataBase );
             this.setState({images: imageDataBase});
             
             
